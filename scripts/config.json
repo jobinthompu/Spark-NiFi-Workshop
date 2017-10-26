@@ -1,0 +1,17 @@
+{
+  "days" : 1095,
+  "keySize" : 2048,
+  "keyPairAlgorithm" : "RSA",
+  "signingAlgorithm" : "SHA256WITHRSA",
+  "dn" : "CN=George, OU=NIFI",
+  "keyStore" : "George.p12",
+  "keyStoreType" : "PKCS12",
+  "keyStorePassword" : "hadoop",
+  "keyPassword" : null,
+  "token" : "hadoop",
+  "caHostname" : "node1",
+  "port" : 10443,
+  "trustStore" : "truststore.pkcs12",
+  "trustStorePassword" : "hadoop",
+  "trustStoreType" : "PKCS12"
+}
